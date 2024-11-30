@@ -1,0 +1,10 @@
+p{
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.b2{
+    display: block;
+    align-items: center;
+}
